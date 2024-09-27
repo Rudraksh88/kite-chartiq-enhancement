@@ -9,6 +9,17 @@
 // @require     https://code.jquery.com/jquery-3.6.0.min.js
 // ==/UserScript==
 
+// Disclaimer
+/**
+ * DISCLAIMER:
+ * This script is provided "as is" without warranty of any kind, express or implied.
+ * While efforts have been made to ensure the script's compatibility,
+ * the author and contributors are not responsible for any potential 
+ * issues, damages, or unintended consequences that may arise from its use.
+ * Users implement this script at their own risk and are advised to 
+ * review and test it thoroughly before deployment in any production environment.
+ */
+
 (function () {
     "use strict";
 
